@@ -6,5 +6,5 @@ $ cargo build --release
 $ python3 src/main.py
 ```
 
-more detail is here(japanese only).
+more detail is [here](https://mayoyamasaki.github.io/post/rust-inside-python-for-using-hyper-http-client/)(japanese only).
 
