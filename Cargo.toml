@@ -1,0 +1,13 @@
+[package]
+name = "hyper-thread"
+version = "0.1.0"
+authors = ["mayo-ya <mayo.yamasaki@gmail.com>"]
+
+[dependencies]
+hyper = "0.9.10"
+libc = "0.2.16"
+rustc-serialize = "0.3"
+
+[lib]
+name = "hyper_thread"
+crate-type = ["dylib"]
